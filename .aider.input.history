@@ -1,0 +1,120 @@
+
+# 2025-08-29 14:08:00.460440
++N
+
+# 2025-08-29 14:08:12.257287
++/add index.html script.js
+
+# 2025-08-29 14:12:02.064168
++/exit
+
+# 2025-08-29 14:15:49.501447
++N
+
+# 2025-08-29 14:16:01.625439
++/add index.html script.js
+
+# 2025-08-29 14:16:37.400020
++Make a two-player fighting game webpage. 
++- Player 1 uses WASD to move, F to attack. 
++- Player 2 uses OKL; to move, J to attack. 
++- Each player has a health bar that decreases when hit. 
++- Game ends when a player’s health is zero. 
++- Use Canvas API to draw stick figure characters with punch animations.
++- Put everything in index.html and script.js.
++
+
+# 2025-08-29 14:18:25.076129
++N
+
+# 2025-08-29 14:18:34.873272
++/add index.html script.js
+
+# 2025-08-29 14:18:45.939853
++Make a two-player fighting game webpage. 
++- Player 1 uses WASD to move, F to attack. 
++- Player 2 uses OKL; to move, J to attack. 
++- Each player has a health bar that decreases when hit. 
++- Game ends when a player’s health is zero. 
++- Use Canvas API to draw stick figure characters with punch animations.
++- Put everything in index.html and script.js.
++
+
+# 2025-08-29 14:19:26.624233
++/exit
+
+# 2025-08-29 14:19:36.287999
++N
+
+# 2025-08-29 14:19:55.768230
++> /add index.html script.js
+
+# 2025-08-29 14:20:02.000016
++Y
+
+# 2025-08-29 14:21:54.847848
++/exit
+
+# 2025-08-29 14:22:00.629318
++N
+
+# 2025-08-29 14:22:13.602268
++/add index.html script.js
+
+# 2025-08-29 14:22:38.874940
++index.html script.js
++> Make a two-player fighting game webpage.
++> - Player 1 uses WASD to move, F to attack.
++> - Player 2 uses OKL; to move, J to attack.
++> - Each player has a health bar that decreases when hit.
++> - Game ends when a player’s health is zero.
++> - Use Canvas API to draw stick figure characters with punch animations.
++> - Put everything in index.html and script.js.
+
+# 2025-08-29 14:23:32.802022
++/exit
+
+# 2025-08-29 14:23:39.242841
++N
+
+# 2025-08-29 14:23:53.140290
++/add index.html script.js
+
+# 2025-08-29 14:24:08.735918
++Make a two-player fighting game webpage.
++> > - Player 1 uses WASD to move, F to attack.
++> > - Player 2 uses OKL; to move, J to attack.
++> > - Each player has a health bar that decreases when hit.
++> > - Game ends when a player’s health is zero.
++> > - Use Canvas API to draw stick figure characters with punch animations.
++> > - Put everything in index.html and script.js.
+
+# 2025-08-29 14:24:59.720969
++/exit
+
+# 2025-08-29 14:25:06.264926
++N
+
+# 2025-08-29 14:25:25.107015
++/add index.html script.js
+
+# 2025-08-29 14:26:05.332086
++> Make a two-player fighting game webpage.
++> - Player 1 uses WASD to move, F to attack.
++> - Player 2 uses OKL; to move, J to attack.
++> - Each player has a health bar that decreases when hit.
++> - Game ends when a player’s health is zero.
++> - Use Canvas API to draw stick figure characters with punch animations.
++> - Put everything in index.html and script.js.
+
+# 2025-08-29 14:27:37.951911
++/exit
+
+# 2025-08-29 14:27:46.359428
++N
+
+# 2025-08-29 14:28:01.152995
++/add index.html script.js
+
+# 2025-08-29 14:30:05.944354
++Make a two-player fighting game webpage where Player 1 uses WASD to move and F to attack, and Player 2 uses OKL; to move and J to attack. Each player should have a health bar that decreases when hit, and the game ends when a player’s health reaches zero. Use the Canvas API to draw stick figure characters with simple punch animations. Put everything in index.html and script.js.
